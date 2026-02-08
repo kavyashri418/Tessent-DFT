@@ -43,5 +43,7 @@ _Objective: Understand the DFT flow for inserting MBIST_
 ```
 Go to the directory: cd Tessent_labs
 Run the dofile script
+Observe the output
+```
 
-- 
+- To insert the MBIST at sub-block level using Tessent DFT flow
