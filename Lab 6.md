@@ -37,10 +37,10 @@ _Objective: Understand how to insert EDT IP core using Tessent Test-kompress_
 - Report required lock-up cells
 - Write the EDT modified RTL
 
-  ## DFT Implementation Process
-  ```
-  Go to the directory - cd Tessent_labs
-  Run first the dofile.do script followed by edt_ip.do script
-  ```
+## DFT Implementation Process
+```
+Go to the directory - cd Tessent_labs
+Run first the dofile.do script followed by edt_ip.do script
+```
 
-  - To insert an EDT IP core into a scan stitched netlist
+- To insert an EDT IP core into a scan stitched netlist
