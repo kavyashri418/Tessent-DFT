@@ -26,4 +26,16 @@ _Objective: Understand how to insert Boundary scan at chip level_
   - DRC ie design rule check is performed to validate the DFT requirements
 - Create & report the DFT specification
   - After a successful DRC run, create DFT specification & report the same on the Tessent shell
+- Insert the DFT instruments
+  - This is going to insert the DFT components and a modified RTL file is created inside the TSDB directory
+- Display the visualizer
+  - This will display the added DFT components using the DFT visualizer
+
+## DFT implementation process
+```
+Go to the directory - cd Tessent_labs
+Run the dofile script
+```
+
+- To insert Boundary scan using Tessent shell at chip level
 - 
